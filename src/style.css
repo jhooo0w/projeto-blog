@@ -1,0 +1,121 @@
+.bloco {
+    height: 200px;
+    border: 1px solid black;
+}
+
+#cabecalho {
+    height: 260px;
+    background-color: rgba(24, 23, 23, 0.884);
+}
+
+#principal {
+    height: 800px;
+    background-color: white;
+}
+
+body {
+    margin: 0;
+}
+
+#forkme_banner {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 10px;
+    z-index: 0;
+    padding: 10px 10px 10px 10px;
+    color: #fff;
+    font-weight: 700;
+    background-color: rgba(79, 79, 233, 0.979);
+    text-decoration: none;
+}
+
+#t1 {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    top: 200px;
+    left: 200px;
+    
+}
+
+#t2 {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    
+}
+
+#t3 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#t4 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px auto;
+}
+
+
+.texto {
+    text-align: center;
+}
+
+.lista {
+    text-align: center;
+    list-style-type: none;
+}
+
+
+.listas {
+    text-decoration: none;
+}
+
+#logo {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+#terceiro {
+    background-color:rgba(24, 23, 23, 0.884); ;
+}
+
+.agradecimento {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.link {
+    color: white;
+}
+
+hr {
+    max-width: 890px;
+    margin: 20px auto;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+article h2 {
+    color: #333;
+    font-size: 24px;
+}
